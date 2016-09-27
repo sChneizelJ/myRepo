@@ -1,4 +1,6 @@
-# myRepo
-Just Something
+## myRepo
 
-Contains a few of my shell scripts
+Just Something
+This contains practice Java files. And a layout for a Java based chatbot.
+
+
